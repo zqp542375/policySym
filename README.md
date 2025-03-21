@@ -7,6 +7,8 @@ PolicySym is a guided symbolic execution framework for security analysis on Soli
 ![Path-Finding Game](./policysym.jpg)
 
 
+<br>
+<hr>
 
 ### Install solc-select and all versions of solc
 ```
