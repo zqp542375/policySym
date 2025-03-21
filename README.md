@@ -1,5 +1,5 @@
 
-##  PolicySym##
+##  PolicySym 
 
 PolicySym is a guided symbolic execution framework for security analysis on Solidity Smart Contracts. It is designed to reduce the sequence explosion by applying a learned policy to generate sequences. The policy is learned by training an agent to play a game abstracted from smart contracts using deep reinforcement learning (DRL). 
 
